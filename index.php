@@ -133,7 +133,6 @@ echo "<script>window.location='http://www.particiones.net/index2.html'</script>"
         </li>
         <li>
        	  <div class="ch-item ch-img-3">
-           PRUEBA
             <div class="ch-info-wrap">
               <div class="ch-info">
                 <div class="ch-info-front ch-img-3"></div>
